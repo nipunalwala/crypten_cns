@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+backend/crypten.db
+frontend/node_modules/
+frontend/dist/
+fixtures/**/*.bak
+*.png
+lab/
